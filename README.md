@@ -2,7 +2,7 @@
 
 A simple project demonstrating how to build a photo editing app using Flutter and IMG.LY
 
-You can read an article about this project, which is on medium: https://medium.com/flutter-community/easiest-steps-to-build-a-face-filter-app-with-flutter-and-deep-ar-c020037d893d
+You can read an article about this project, which is on medium: https://promise-amadi.medium.com/5d9601173822
 
 <h4>If you find this repo helpful to you, please don't forget to star ⭐ the repo 😉, it's FREE. </h4>
 
